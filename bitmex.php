@@ -1,6 +1,6 @@
 <?php
 /*
-	Some of the code is from https://github.com/y0un1verse/bitmex-api-php
+	Some of the code is from https://github.com/kstka/bitmex-api-php
 */
 class my_bitmex {
 	const API_URL = 'https://testnet.bitmex.com';
